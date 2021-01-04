@@ -1,0 +1,1 @@
+export const GET_RANDOM_ISSUES = "GET_RANDOM_ISSUES"
